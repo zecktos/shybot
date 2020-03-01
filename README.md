@@ -7,7 +7,7 @@ Image processing is done with opencv.
 ## Setup
 
 `sudo apt install pigpiod python3-opencv python3-flask python3-pigpio`  
-in directory '/haarcascades' do :  
+in directory `/haarcascades` do :  
 `wget https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml`
 
 ## Usage
